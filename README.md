@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Imagen de Portada](Recursos/shenlong.webp)
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+Hola Soy Manuel y estoy estudiando desarrollo multiplataforma
 
 ## Características
 
