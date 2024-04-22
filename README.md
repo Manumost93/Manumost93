@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Repositorio de Manuel
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](Recursos/shenlong.webp)
 ## Descripción
 
 Breve descripción del proyecto, objetivos y funcionalidades principales.
