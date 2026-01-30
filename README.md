@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Repositorio de Manuel
-![Imagen de Portada](Recursos/shenlong.webp)
+
 ## Descripción
 
 Hola, soy Manuel Honrado.
