@@ -20,26 +20,10 @@ Here are some ideas to get you started:
 ![Imagen de Portada](Recursos/shenlong.webp)
 ## Descripción
 
-Hola Soy Manuel y estoy estudiando desarrollo multiplataforma
+Hola, soy Manuel Honrado.
 
-## Características
+Desarrollador/a de software con formación en backend y frontend, y base en bases de datos, cloud e inteligencia artificial.
 
-- Característica 1
-- Característica 2
-- Característica 3
-- 
-## Instalación
+He trabajado con tecnologías como C#, .NET Core, SQL Server, Entity Framework, React y Material UI, aplicando arquitecturas DDD orientadas a microservicios y autenticación mediante JWT.
 
-Instrucciones para instalar y configurar el proyecto.
-
-## Uso
-
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-
-## Instalacion
-
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-
-## Licencia
-
-Licencia bajo la cual se distribuye el proyecto.
+En este perfil comparto proyectos académicos y personales, incluyendo un proyecto final full-stack con backend en .NET y frontend en React, donde desarrollo APIs, CRUDs completos y aplicaciones orientadas a datos.
